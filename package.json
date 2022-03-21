@@ -2,9 +2,15 @@
   "name": "formatjs-message-extractor",
   "version": "0.1.0",
   "description": "React intl formatjs messages extractor",
-  "author": "alexandretrichot",
+  "author": {
+    "name": "alexandretrichot",
+    "email": "contact@alexandretrichot.fr",
+    "url": "https://github.com/alexandretrichot"
+  },
+  "repository": {
+    "url": "https://github.com/alexandretrichot/formatjs-message-extractor"
+  },
   "license": "MIT",
-  "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": "dist/cli.js",
