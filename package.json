@@ -1,6 +1,6 @@
 {
   "name": "formatjs-message-extractor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "React intl formatjs messages extractor",
   "author": {
     "name": "alexandretrichot",
